@@ -1,0 +1,20 @@
+*color0 = #000000
+*color1 = #EDB608
+*color2 = #222
+*color3 = #DFDFDF
+*color4 = #555
+*color5 = #ffb52a
+*color6 = #e60053
+*color7 = #bd2c40
+*color8 = #000000
+*color9 = #000000
+*color10 = #000000
+*color11 = #000000
+*color12 = #000000
+*color13 = #000000
+*color14 = #000000
+*color15 = #000000
+
+
+
+rofi.font: fantasque sans mono 11
